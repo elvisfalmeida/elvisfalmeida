@@ -2,49 +2,69 @@
 
 ## 🚀 Sobre Mim
 
-Sou um entusiasta da tecnologia com experiência em administração de servidores, automação, redes e desenvolvimento backend. Atualmente, estou focado em otimizar infraestruturas e desenvolver soluções eficientes para ambientes distribuídos.
+Sou um entusiasta da tecnologia com experiência em **administração de servidores, automação, redes e desenvolvimento backend**. Atualmente, estou focado em otimizar infraestruturas e desenvolver soluções eficientes para ambientes distribuídos.
 
 ## 🔧 Tecnologias e Ferramentas
 
 - **Infraestrutura & Redes:** Docker, Docker Swarm, Traefik, CloudPanel, Fortigate, Pfsense
 - **Desenvolvimento Backend:** Node.js, Redis, PostgreSQL, MySQL
-- **Automação & Scripts:** PowerShell, Bash, PM2
+- **Automatização & Scripts:** PowerShell, Bash, PM2
 - **Segurança & Acesso Remoto:** VPN, Proxy Reverso, CGNAT Workarounds, OpenVPN, SSLVPN, IPSec VPN
+
+---
 
 ## 📌 Projetos em Destaque
 
 ### 🚀 Trabalhando no Momento
 
 🔧 **Bot de Integração Telegram ↔ WhatsApp**  
-📌 Utilizando **Evolution API**, este bot monitora canais do Telegram e replica as mensagens em grupos do WhatsApp.<br>
-✅ Já conta com uma **imagem Docker** criada por mim, a qual está disponível no **Docker Hub**:
+📌 Utilizando **Evolution API**, este bot monitora canais do Telegram e replica as mensagens em grupos do WhatsApp.  
+👉 Já conta com uma **imagem Docker** criada por mim, disponível no **Docker Hub**:
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/elvisfalmeida/evov2-telegrambot?style=flat-square)](https://hub.docker.com/r/elvisfalmeida/evov2-telegrambot)  
 🔗 [Docker Hub - evov2-telegrambot](https://hub.docker.com/r/elvisfalmeida/evov2-telegrambot)
 
 📌 Em breve, abrirei um repositório no GitHub com mais informações e disponibilizarei o script puro.
 
+---
+
 ### 🔥 Outros Projetos
 
 - **Evolution API** - Gerenciamento de WhatsApp via API, rodando em múltiplos ambientes (CloudPanel, VPS e Local)
-- **TranscreveZap** - API para transcrição de áudios do WhatsApp 
+- **TranscreveZap** - API para transcrição de áudios do WhatsApp
 - **Infraestrutura Pessoal** - Configuração de servidores locais e em nuvem para otimização de custos
-- **Automação de Redes** - Scripts PowerShell para gerenciamento de VPN e acesso remoto
+- **Automatização de Redes** - Scripts PowerShell para gerenciamento de VPN e acesso remoto
 
-## 🔗 Repositórios Relacionados
+---
 
+## 📚 Repositórios Relacionados
+
+### 🛠️ **Módulo WHMCS - Evolution WhatsApp**
+[![GitHub stars](https://img.shields.io/github/stars/elvisfalmeida/evolutionwhatsapp?style=social)](https://github.com/elvisfalmeida/evolutionwhatsapp)  
+🔗 **[Evolution WhatsApp Notifications](https://github.com/elvisfalmeida/evolutionwhatsapp)** - Integração de notificações do WHMCS via WhatsApp.
+
+### 🔒 **Painel de Licenciamento WHMCS**
+[![GitHub stars](https://img.shields.io/github/stars/elvisfalmeida/Evolution-WHMCS-License-Panel-?style=social)](https://github.com/elvisfalmeida/Evolution-WHMCS-License-Panel-)  
+🔗 **[Evolution WHMCS License Panel](https://github.com/elvisfalmeida/Evolution-WHMCS-License-Panel-)** - Painel para gerenciamento e validação de licenças do módulo WhatsApp no WHMCS.
+
+### 🐝 Outros projetos
 [![Evolution API](https://img.shields.io/github/stars/EvolutionAPI/evolution-api?style=social)](https://github.com/EvolutionAPI/evolution-api) - [Evolution API](https://github.com/EvolutionAPI/evolution-api): Gerenciamento de WhatsApp via API
 
 [![TranscreveZap](https://img.shields.io/github/stars/impacte-ai/transcrevezap?style=social)](https://github.com/impacte-ai/transcrevezap) - [TranscreveZap](https://github.com/impacte-ai/transcrevezap): API para transcrição de áudios do WhatsApp
+
+---
 
 ## 🎮 Interesses Adicionais
 
 Além de servidores e redes, tenho interesse em **streaming de jogos e role play**. Planejo explorar esse universo em um canal do YouTube no futuro.
 
-## 📫 Contato
+---
+
+## 💌 Contato
 
 Se quiser trocar ideias sobre tecnologia, automação ou infraestrutura, fique à vontade para entrar em contato!
 
-📧 Email: [elvis@ebyte.net.br](mailto:elvis@ebyte.net.br)
-🌎 Site: [ebyte.net.br](https://ebyte.net.br)
-💬 LinkedIn: [linkedin.com/in/elvisfalmeida](https://linkedin.com/in/elvisfalmeida)
+📧 **Email:** [elvis@ebyte.net.br](mailto:elvis@ebyte.net.br)  
+🌐 **Site:** [ebyte.net.br](https://ebyte.net.br)  
+💬 **LinkedIn:** [linkedin.com/in/elvisfalmeida](https://linkedin.com/in/elvisfalmeida)
+
