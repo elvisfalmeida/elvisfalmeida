@@ -37,16 +37,6 @@ Sou um entusiasta da tecnologia com experiência em **administração de servido
 
 ---
 
-## 📚 Repositórios Relacionados
-
-### 🛠️ **Módulo WHMCS - Evolution WhatsApp**
-[![GitHub stars](https://img.shields.io/github/stars/elvisfalmeida/evolutionwhatsapp?style=social)](https://github.com/elvisfalmeida/evolutionwhatsapp)  
-🔗 **[Evolution WhatsApp Notifications](https://github.com/elvisfalmeida/evolutionwhatsapp)** - Integração de notificações do WHMCS via WhatsApp.
-
-### 🔒 **Painel de Licenciamento WHMCS**
-[![GitHub stars](https://img.shields.io/github/stars/elvisfalmeida/Evolution-WHMCS-License-Panel-?style=social)](https://github.com/elvisfalmeida/Evolution-WHMCS-License-Panel-)  
-🔗 **[Evolution WHMCS License Panel](https://github.com/elvisfalmeida/Evolution-WHMCS-License-Panel-)** - Painel para gerenciamento e validação de licenças do módulo WhatsApp no WHMCS.
-
 ### 🐝 Outros projetos
 [![Evolution API](https://img.shields.io/github/stars/EvolutionAPI/evolution-api?style=social)](https://github.com/EvolutionAPI/evolution-api) - [Evolution API](https://github.com/EvolutionAPI/evolution-api): Gerenciamento de WhatsApp via API
 
