@@ -20,6 +20,10 @@
 
 ### 🔔 [JellyWahaNotify](https://github.com/elvisfalmeida/JellyWahaNotify) &nbsp;<sub>· o mais recente e o meu xodó</sub>
 
+<a href="https://github.com/elvisfalmeida/JellyWahaNotify/releases/latest"><img src="https://img.shields.io/github/v/release/elvisfalmeida/JellyWahaNotify?style=flat-square&label=release&color=8b5cf6&labelColor=0d1117" alt="Release"/></a>
+<img src="https://img.shields.io/badge/Jellyfin-10.11%2B-8b5cf6?style=flat-square&logo=jellyfin&logoColor=white&labelColor=0d1117" alt="Jellyfin 10.11+"/>
+<img src="https://img.shields.io/github/license/elvisfalmeida/JellyWahaNotify?style=flat-square&color=64748b&labelColor=0d1117" alt="Licença"/>
+
 Plugin pro **Jellyfin** que te avisa no WhatsApp quando entra coisa nova na biblioteca. Filme, episódio ou álbum — chega com pôster e legenda bonitinha.
 
 O pulo do gato: episódios vêm **agrupados por série**, então quando você joga uma temporada inteira lá dentro você recebe *uma* mensagem, não vinte e quatro. Ainda dá um toque pros admins sobre login novo, tentativa de login que falhou e quem começou a assistir o quê.
@@ -29,6 +33,10 @@ O pulo do gato: episódios vêm **agrupados por série**, então quando você jo
 <br/>
 
 ### 🛠️ Omega Tools &nbsp;<sub>· [canal de releases](https://github.com/elvisfalmeida/Omega-Tools-Updates)</sub>
+
+<a href="https://github.com/elvisfalmeida/Omega-Tools-Updates/releases/latest"><img src="https://img.shields.io/github/v/release/elvisfalmeida/Omega-Tools-Updates?style=flat-square&label=release&color=f59e0b&labelColor=0d1117" alt="Release"/></a>
+<img src="https://img.shields.io/badge/Python-Tkinter-f59e0b?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" alt="Python/Tkinter"/>
+<img src="https://img.shields.io/badge/Windows-desktop-f59e0b?style=flat-square&logo=windows&logoColor=white&labelColor=0d1117" alt="Windows"/>
 
 Desktop app em **Python/Tkinter** que virou o canivete suíço do iGlobal por aqui: menu de acesso rápido aos módulos e auto-update embutido.
 
@@ -68,18 +76,6 @@ O detalhe que faz diferença: funciona **mesmo com a senha já expirada** — ju
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix"/>
   <img src="https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white" alt="Veeam"/>
 </p>
-
----
-
-## 📊 Números
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=elvisfalmeida&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisfalmeida&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
 
 ---
 
