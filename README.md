@@ -18,7 +18,21 @@
 
 ## 🎬 O que eu ando aprontando
 
-### 🔔 [JellyWahaNotify](https://github.com/elvisfalmeida/JellyWahaNotify) &nbsp;<sub>· o mais recente e o meu xodó</sub>
+### 🛡️ [JellyDirectGuard](https://github.com/elvisfalmeida/JellyDirectGuard) &nbsp;<sub>· recém-saído do forno</sub>
+
+<a href="https://github.com/elvisfalmeida/JellyDirectGuard/releases/latest"><img src="https://img.shields.io/github/v/release/elvisfalmeida/JellyDirectGuard?style=flat-square&label=release&color=8b5cf6&labelColor=0d1117" alt="Release"/></a>
+<img src="https://img.shields.io/badge/Jellyfin-10.11%2B-8b5cf6?style=flat-square&logo=jellyfin&logoColor=white&labelColor=0d1117" alt="Jellyfin 10.11+"/>
+<img src="https://img.shields.io/github/license/elvisfalmeida/JellyDirectGuard?style=flat-square&color=64748b&labelColor=0d1117" alt="Licença"/>
+
+Plugin pro **Jellyfin** que força **direct play**: transcodificação de vídeo, aqui não. Nasceu da minha VPS sem GPU, onde dois transcodes já sentavam a CPU — com direct play, streaming vira só I/O de rede e a mesma máquina atende uma multidão.
+
+O pulo do gato: a política é clampada **no segundo em que o usuário é criado** — inclusive contas geradas pelo Wizarr, que adora reescrever a própria política logo depois (tem uma segunda passada esperando por ele). E se alguém liberar transcode na mão, a varredura periódica desfaz sozinha. Tabela de status por usuário e botão "Aplicar agora" direto no Dashboard.
+
+<sub>`C#` · `Jellyfin 10.11+` · `GPL-3.0` · instalável direto pelo catálogo de plugins</sub>
+
+<br/>
+
+### 🔔 [JellyWahaNotify](https://github.com/elvisfalmeida/JellyWahaNotify) &nbsp;<sub>· o meu xodó</sub>
 
 <a href="https://github.com/elvisfalmeida/JellyWahaNotify/releases/latest"><img src="https://img.shields.io/github/v/release/elvisfalmeida/JellyWahaNotify?style=flat-square&label=release&color=8b5cf6&labelColor=0d1117" alt="Release"/></a>
 <img src="https://img.shields.io/badge/Jellyfin-10.11%2B-8b5cf6?style=flat-square&logo=jellyfin&logoColor=white&labelColor=0d1117" alt="Jellyfin 10.11+"/>
